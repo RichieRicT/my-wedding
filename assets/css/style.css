@@ -11,6 +11,7 @@
 	--dark: #151515;
 	--black: #000000;
 	--beige: #a9b2e9;
+	
 }
 
 html {
@@ -18,7 +19,7 @@ html {
 }
 
 * {
-	font-family: 'Work Sans', sans-serif;
+	font-family: 'Inter', sans-serif;
 }
 
 body.transition {
